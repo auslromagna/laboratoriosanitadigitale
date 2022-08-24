@@ -16,6 +16,7 @@ search: false
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 markdown: kramdown
 
+logo: /assets/images/DP_1_updated_800x255.png
 teaser: /assets/images/DP_1_updated_800x255.png
 
 # Outputting
