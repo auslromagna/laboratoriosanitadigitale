@@ -1,3 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+- jekyll-include-cache
+
 title: Laboratorio Sanità Digitale
 description: test
