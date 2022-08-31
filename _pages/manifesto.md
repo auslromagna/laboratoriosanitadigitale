@@ -2,8 +2,6 @@
 permalink: /manifesto/
 title: "Manifesto"
 excerpt: ""
-header:
-  image: mm-home-page-feature.jpg
 sidebar:
   - title: "Role"
     text: "Designer, Front-End Developer"
