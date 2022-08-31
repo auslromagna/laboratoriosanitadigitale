@@ -1,8 +1,17 @@
 ---
 permalink: /manifesto/
-layout: single
 title: "Manifesto"
 excerpt: ""
+header:
+  image: foo-bar-identity.jpg
+  teaser: foo-bar-identity-th.jpg
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 modified: 2022-08-31T10:51:37+01:00
 ---
 
