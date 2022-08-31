@@ -10,14 +10,14 @@ locale                   : "it-IT"
 title                    : "Laboratorio Sanità Digitale"
 subtitle                 : "subtitle"
 title_separator          : "|"
-masthead_title           : "Lab. SD"
+masthead_title           : "Lab. Sanità Digitale"
 logo                     : "/images/site-logo.png"
-name                     : &name "TEST"
+name                     : &name "Azienda USL della Romagna"
 description              : &description ""
 url                      : https://auslromagna.github.io
 baseurl                  : "/laboratoriosanitadigitale"
 repository               : "auslromagna/laboratoriosanitadigitale"
-teaser                   : "500x300.png"
+#teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
