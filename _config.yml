@@ -1,24 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "it"
 title                    : "Laboratorio Sanità Digitale"
 subtitle                 : "subtitle"
 title_separator          : "|"
 masthead_title           : "Lab. Sanità Digitale"
-logo                     : "/assets/images/site-logo.png"
+logo                     : "/images/site-logo.png"
 name                     : &name "Azienda USL della Romagna"
 description              : &description ""
 url                      : https://auslromagna.github.io
 baseurl                  : "/laboratoriosanitadigitale"
 repository               : "auslromagna/laboratoriosanitadigitale"
-#teaser                   : "500x300.png"
-# breadcrumbs            : false # true, false (default)
+#teaser                  : "500x300.png"
+breadcrumbs             : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
