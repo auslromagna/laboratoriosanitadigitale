@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "it-IT"
 title                    : "Laboratorio Sanità Digitale"
-title_short:             : "LabSD"
+title_short              : "LabSD"
 title_separator          : "|"
 name                     : &name "TEST"
 description              : &description ""
