@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "it-IT"
 title                    : "Laboratorio Sanità Digitale"
-title_short              : "Lab. Sanità Digitale"
 title_separator          : "|"
 subtitle                 : "subtitle"
+masthead_title           : "Lab. SD"
 logo                     : "/assets/images/site-logo.jpg"
 name                     : &name "TEST"
 description              : &description ""
