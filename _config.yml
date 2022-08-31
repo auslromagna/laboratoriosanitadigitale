@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "it-IT"
 title                    : "Laboratorio Sanità Digitale"
-title_short              : "LabSD"
+title_short              : "Lab. Sanità Digitale"
 title_separator          : "|"
 subtitle                 : "subtitle"
-logo                     : "/images/3953273590_704e3899d5_m.jpg"
+logo                     : "/assets/images/site-logo.jpg"
 name                     : &name "TEST"
 description              : &description ""
 url                      : https://auslromagna.github.io
