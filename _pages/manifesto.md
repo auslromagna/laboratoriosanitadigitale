@@ -2,13 +2,18 @@
 permalink: /manifesto/
 title: "Manifesto"
 excerpt: ""
+sidebar:
+  - title: "[Role](www.google.com)"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 modified: 2022-08-31T10:51:37+01:00
 ---
 
 {% include base_path %}
 {% include toc %}
 
-# Title 1
+# Title 11
 
 Here the page content...
 
