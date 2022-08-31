@@ -8,16 +8,16 @@
 # Site Settings
 locale                   : "it-IT"
 title                    : "Laboratorio Sanità Digitale"
-title_separator          : "|"
 subtitle                 : "subtitle"
+title_separator          : "|"
 masthead_title           : "Lab. SD"
-logo                     : "/assets/images/site-logo.jpg"
+logo                     : "/images/site-logo.png"
 name                     : &name "TEST"
 description              : &description ""
 url                      : https://auslromagna.github.io
 baseurl                  : "/laboratoriosanitadigitale"
 repository               : "auslromagna/laboratoriosanitadigitale"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -33,7 +33,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
