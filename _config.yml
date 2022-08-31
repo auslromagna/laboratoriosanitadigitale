@@ -167,6 +167,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      sidebar:
+       nav: "pages"
   # _portfolio
   - scope:
       path: ""
