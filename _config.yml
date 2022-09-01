@@ -1,7 +1,6 @@
 # Site Settings
 locale                   : "it"
 title                    : "Laboratorio Sanità Digitale"
-subtitle                 : "subtitle"
 title_separator          : "|"
 logo                     : "/images/labsd-logo.png"
 name                     : &name "Azienda USL della Romagna"
