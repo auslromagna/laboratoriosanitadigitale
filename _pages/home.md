@@ -10,10 +10,8 @@ excerpt: "Promuove lo studio e la ricerca per l'applicazione di modelli, archite
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: ""
-    title: "Studio e Ricerca"
+    title: "[Studio e Ricerca](/manifesto)"
     excerpt: "Attività di ricerca, studio, progettazione e sviluppo di tecnologie e sistemi nell'ambito della digitalizzazione della sanità"
-    url: "/manifesto/"
-    btn_label: "+"
   - image_path: mm-responsive-feature.png
     alt: ""
     title: "Osservatorio"
