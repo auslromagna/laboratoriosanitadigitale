@@ -11,24 +11,37 @@ modified: 2022-08-31T10:51:37+01:00
 ---
 
 {% include base_path %}
-{% include toc %}
+<!--{% include toc %}-->
 
-# Title 11
+## Il Laboratorio
 
-Here the page content...
 
-## Title 2
 
-test
-
-### Title 3
+## I partner
 
 test
 
-## Title 4
+## Il Comitato Scientifico
 
-test
+Il comitato Scientifico del Laboratorio Sanità Digitale si compone di 8 membri, tre dei quali individuati dal Dipartimento di Informatica - Scienza e Ingegneria dell'Università di Bologna, altri 3 individuati dall'Azienda USL della Romagna, e infine due individuati da IRST.
 
-# Title 5
+I membri in carica del Comitato Scientifico sono i seguenti
 
-## Title 6
+* Dipartimento di Informatica - Scienza e Ingegneria, Università di Bologna
+	* Prof. Franco Callegati
+	* Prof. 
+	* Prof.
+	
+* Azienda USL della Romagna
+	* Ing. Gianluca Biondi
+	* Ing. Angelo Croatti
+	* Dott. Stefano Sanniti
+	
+* IRST
+	* ...
+	* ...
+	* ...
+
+## Le attività
+
+

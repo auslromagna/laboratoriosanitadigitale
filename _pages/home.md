@@ -9,13 +9,13 @@ excerpt: "Promuove lo studio e la ricerca per l'applicazione di modelli, archite
 
 feature_row:
   - image_path: mm-customizable-feature.png
-    title: "[Studio e Ricerca](/manifesto)"
+    title: "[Studio e Ricerca](/laboratoriosanitadigitale/manifesto/)"
     excerpt: "Attività di ricerca, studio, progettazione e sviluppo di tecnologie e sistemi nell'ambito della digitalizzazione della sanità"
   - image_path: mm-responsive-feature.png
-    title: "[Osservatorio](/manifesto)"
+    title: "[Osservatorio](/laboratoriosanitadigitale/manifesto/)"
     excerpt: "Osservatorio permanente sullo stato della transizione digitale in sanità"
   - image_path: mm-free-feature.png
-    title: "[Formazione](/manifesto)"
+    title: "[Formazione](/laboratoriosanitadigitale/manifesto/)"
     excerpt: "Eventi, seminari e corsi formativi per la promozione di cultura digitale in sanità"
 ---
 
