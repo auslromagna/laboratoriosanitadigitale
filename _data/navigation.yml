@@ -23,15 +23,6 @@ foo:
 main:
   - title: "Manifesto"
     url: /manifesto/
-    
-  - title: "About"
-    url: /about/
-
-  - title: "Sample Posts"
-    url: /year-archive/
-
-  - title: "Sample Collections"
-    url: /collection-archive/
 
 # pages links
 pages:
