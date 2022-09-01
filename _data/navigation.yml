@@ -23,7 +23,11 @@ foo:
 main:
   - title: "Manifesto"
     url: /manifesto/
-
+  - title: "Attività e Progetti"
+    url: /projects/
+  - title: "Pubblicaizioni"
+    url: /publications/
+    
 # pages links
 pages:
   - title: Getting Started
