@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: site-teaser.png
+  overlay_image: labsd-teaser.jpg
   caption:
 excerpt: "Promuove lo studio e la ricerca per l'applicazione di modelli, architetture e tecnologie informatiche nel settore sanitario e per il relativo processo continuo di trasformazione digitale"
 feature_row:
