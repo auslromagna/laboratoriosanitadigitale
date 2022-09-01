@@ -3,12 +3,12 @@ locale                   : "it"
 title                    : "Laboratorio Sanità Digitale"
 title_separator          : "|"
 logo                     : "/images/labsd-logo.png"
-name                     : &name "Azienda USL della Romagna"
+name                     : &name ""
 description              : &description ""
 url                      : https://auslromagna.github.io
 baseurl                  : "/laboratoriosanitadigitale"
 repository               : "auslromagna/laboratoriosanitadigitale"
-breadcrumbs             : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"

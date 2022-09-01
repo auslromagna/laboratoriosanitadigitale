@@ -6,25 +6,26 @@ header:
   overlay_image: labsd-teaser.jpg
   caption:
 excerpt: "Promuove lo studio e la ricerca per l'applicazione di modelli, architetture e tecnologie informatiche nel settore sanitario e per il relativo processo continuo di trasformazione digitale"
+
 feature_row:
   - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_label: "Learn More"
+    alt: ""
+    title: "Studio e Ricerca"
+    excerpt: "Attività di ricerca, studio, progettazione e sviluppo di tecnologie e sistemi nell'ambito della digitalizzazione della sanità"
+    url: "/manifesto/"
+    btn_label: "+"
   - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
+    alt: ""
+    title: "Osservatorio"
+    excerpt: "Osservatorio permanente sullo stato della transizione digitale in sanità"
+    url: "/manifesto/"
+    btn_label: "+"
   - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
-    url: "/docs/license/"
-    btn_label: "Learn More"
+    alt: ""
+    title: "Formazione"
+    excerpt: "Eventi, seminari e corsi formativi per la promozione di cultura digitale in sanità"
+    url: "/manifesto/"
+    btn_label: "+"
 ---
 
 {% include feature_row %}
