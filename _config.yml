@@ -3,7 +3,7 @@ locale                   : "it"
 title                    : "Laboratorio Sanità Digitale"
 subtitle                 : "subtitle"
 title_separator          : "|"
-logo                     : "/images/android-chrome-48x48.png"
+logo                     : "/images/logo-labsd.jpg"
 name                     : &name "Azienda USL della Romagna"
 description              : &description ""
 url                      : https://auslromagna.github.io
