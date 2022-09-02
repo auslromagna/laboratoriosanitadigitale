@@ -9,10 +9,8 @@ sidebar:
     text: "Per contattare il laboratorio, cliccare qui: [mail](mailto:laboratoriosanitadigitale@gmail.com)."
 modified: 2022-08-31T10:51:37+01:00
 ---
-
 {% include base_path %}
 <!--{% include toc %}-->
-
 Il **Laboratorio Sanità Digitale** promuove lo studio e la ricerca per l’applicazione di modelli, architetture e tecnologie informatiche nel settore sanitario e per il relativo processo continuo di trasformazione digitale.
 
 Il laboratorio è il risultato di un accordo di collaborazione tra **[Azienda USL della Romagna](https://www.auslromagna.it/)**, **[Dipartimento di Informatica - Scienza e Ingegneria](https://disi.unibo.it/it)** dell'Università di Bologna e **[IRCCS Istituto Romagnolo per lo Studio dei Tumori "Dino Amadori" - IRST S.r.l.](https://www.irst.emr.it/it/)**.
