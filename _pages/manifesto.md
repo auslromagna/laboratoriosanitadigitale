@@ -3,10 +3,10 @@ permalink: /manifesto/
 title: "Manifesto"
 excerpt: ""
 sidebar:
-  - title: "[Role](www.google.com)"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Sede"
+    text: "Il laboratorio è concepito come spazio di collaborazione virtuale. Utilizza spazi di lavoro fisici presso il Campus di Cesena dell'Università di Bologna e presso AUSL della Romagna"
+  - title: "Contatti"
+    text: "Per contattare il laboratorio, scrivere a [laboratoriosanitadigitale@gmail.com](mailto:laboratoriosanitadigitale@gmail.com)"
 modified: 2022-08-31T10:51:37+01:00
 ---
 
