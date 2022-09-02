@@ -8,7 +8,7 @@ description              : &description ""
 url                      : https://auslromagna.github.io
 baseurl                  : "/laboratoriosanitadigitale"
 repository               : "auslromagna/laboratoriosanitadigitale"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
