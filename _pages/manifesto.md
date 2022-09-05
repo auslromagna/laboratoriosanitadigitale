@@ -47,7 +47,7 @@ I membri in carica del Comitato Scientifico sono i seguenti:
 	
 * IRST
 	* Dott. Nicola Gentili, *Membro Data Unit*
-	* Ing. Roberto Vespignani, * Direttore Servizio Informatico*
+	* Ing. Roberto Vespignani, *Direttore Servizio Informatico*
 
 ## Adesioni al Laboratorio
 
